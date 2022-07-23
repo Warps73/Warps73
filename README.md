@@ -1,12 +1,18 @@
 ### Hi there 👋, my name is Timothy
 
-Skills: Symfony / ElasticSearch / MySql / JS / HTML / CSS
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Warps73)](https://github.com/anuraghazra/github-readme-stats)
+[![Github](https://img.shields.io/github/followers/warps73?style=social)](https://github.com/warps73)
 
 
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/timothy-p-38793916a/)](https://www.linkedin.com/in/timothy-p-38793916a/)
 
+### Languages
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Warps73)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/timothy-p-38793916a//)  
+[![Php](https://img.shields.io/badge/-Php-000000?style=flat&logo=php)](https://www.php.net/)
+[![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)](https://developer.mozilla.org/fr/docs/Web/Guide/HTML/HTML5)
+[![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 
-
+### Technologies
+[![Symfony](https://img.shields.io/badge/-Symfony-222222?style=flat&logo=symfony&logoColor=007ACC)](https://www.symfony.com/)
+[![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)](https://fr.reactjs.org/)
+[![Vue](https://img.shields.io/badge/-vue.js-222222?style=flat&logo=vue.js&logoColor=61DAFB)](https://vuejs.org/)
