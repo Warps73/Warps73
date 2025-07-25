@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Timothy
 
 [![Github](https://img.shields.io/github/followers/warps73?style=social)](https://github.com/warps73)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=warps73&show_icons=true&theme=transparent)
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/timothy-p-38793916a/)](https://www.linkedin.com/in/timothy-p-38793916a/)
 
